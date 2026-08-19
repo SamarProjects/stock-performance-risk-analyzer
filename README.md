@@ -39,22 +39,6 @@ The closing-price series used in the analysis is also saved locally in:
 
 ```text
 data/market_prices.csv
-
-````
-## Data
-
-Historical daily market data is downloaded using the `yfinance` Python library.
-
-The analysis covers:
-
-- **Apple Inc.** — ticker: `AAPL`
-- **S&P 500 Index** — ticker: `^GSPC`
-- **Period:** January 2021 to December 2025
-
-The closing-price series used in the analysis is also saved locally in:
-
-```text
-data/market_prices.csv
 ````
 
 ---
